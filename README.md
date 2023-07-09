@@ -5,7 +5,7 @@ Css model, available in [UIverse CSS](https://uiverse.io/Nawsome/spicy-wolverine
 
 <br />
 
-[![Watch the video](https://github.com/harlet17/animatecss/blob/main/.github/ImgApp.gif)
+[![Watch the video](https://github.com/harlet17/animatecss/blob/main/.github/ImgApp.gif)]
 
 <br />
 
